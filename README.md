@@ -1,2 +1,2 @@
-# Lab18CSC160
+# CSC160BasicD3Template
 Created with CodeSandbox

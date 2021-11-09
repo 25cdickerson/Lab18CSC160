@@ -1,0 +1,992 @@
+id,gender,Area,salary,education,age,Senority
+1,M,Production,62050,Some College,33,9.08666289
+2,M,Production,56700,High School,26,6.710519097
+3,M,Janitorial,31425,High School,41,12.86945936
+4,M,Janitorial,34675,High School,49,19.37375003
+5,M,Production,59725,Some College,28,6.884152102
+6,M,Janitorial,31650,Some College,40,10.2632584
+7,F,Production,58650,High School,30,8.642506969
+8,M,Production,60925,High School,29,10.93219328
+9,M,Production,60775,High School,30,10.7808866
+10,M,Janitorial,33150,Some College,45,13.15857864
+11,F,Management,94375,Bachelor,28,4.798125907
+12,M,Production,59675,High School,38,9.668275246
+13,F,Janitorial,29800,Some College,28,6.777350264
+14,M,Production,62925,High School,41,12.9260436
+15,M,Management,119475,Bachelor,41,14.94396083
+16,M,Production,62550,Some College,32,9.568601984
+17,M,Production,57175,Some College,24,4.448429402
+18,M,Production,70100,Some College,45,16.76177658
+19,M,Janitorial,26050,High School,23,2.113267878
+20,M,Production,56900,Some College,31,4.185230166
+21,F,Production,58150,Some College,37,5.391808999
+22,M,Production,66625,High School,39,16.62057129
+23,M,Production,58950,High School,36,8.943528335
+24,M,Production,62350,High School,30,12.35866079
+25,M,Production,56900,High School,37,6.906063197
+26,M,Production,57750,High School,26,7.755170055
+27,M,Production,75425,Some College,50,21.83119159
+28,F,Management,102700,Bachelor,39,8.161329976
+29,M,Executive,632025,Graduate,43,11.06708746
+30,M,Production,66575,High School,39,16.56888289
+31,M,Production,58150,High School,32,8.150674634
+32,M,Production,60125,High School,36,10.11700601
+33,M,Executive,587550,Graduate,44,9.585174117
+34,M,Management,119300,Bachelor,38,14.86803185
+35,F,Management,91925,Bachelor,32,3.808115628
+36,F,Production,63825,Bachelor,30,8.018075608
+37,F,Management,113400,Bachelor,45,12.48232468
+38,M,Management,125325,Bachelor,45,17.30392027
+39,M,Janitorial,26975,High School,25,3.934570404
+40,M,Production,61425,High School,37,11.4234678
+41,M,Production,72900,High School,41,22.9009842
+42,F,Production,58725,Some College,28,5.931663176
+43,M,Production,65325,Some College,39,12.21525703
+44,T,Production,65475,Bachelor,44,9.532116202
+45,M,Production,66075,High School,41,16.07829538
+46,F,Janitorial,28725,High School,25,7.449441016
+47,M,Production,62675,High School,43,12.66349525
+48,M,Janitorial,30675,Some College,40,8.450572505
+49,F,Production,59675,Bachelor,27,4.240686882
+50,M,Production,60775,High School,31,10.76848429
+51,M,Production,59600,High School,36,9.589350273
+52,T,Janitorial,26775,Some College,28,1.010231156
+53,F,Management,102725,Bachelor,30,8.171993661
+54,M,Production,58150,High School,34,8.139381986
+55,M,Production,58775,High School,30,8.7667794
+56,M,Management,111275,Bachelor,42,11.6267019
+57,F,Production,57475,Bachelor,34,2.251053579
+58,F,Janitorial,27325,High School,23,4.642279174
+59,F,Janitorial,31425,Bachelor,41,7.127329619
+60,M,Production,58225,Some College,34,5.458374216
+61,F,Management,99100,Bachelor,32,6.705647434
+62,F,Production,55850,Bachelor,32,0.7737166396
+63,M,Production,57750,High School,30,7.758823742
+64,F,Janitorial,25850,High School,23,1.693620923
+65,F,Management,88675,Bachelor,28,2.495114878
+66,F,Production,51275,High School,24,1.270219857
+67,M,Production,54975,Some College,24,2.348320447
+68,M,Production,68025,High School,44,18.03147708
+69,M,Production,61875,Some College,33,8.919904431
+70,F,Production,55750,Some College,32,3.107002513
+71,M,Production,61625,High School,34,11.62618608
+72,M,Production,76850,Some College,44,23.18623495
+73,M,Management,107000,Bachelor,32,9.895590796
+74,F,Management,109175,Bachelor,34,10.77792605
+75,F,Janitorial,27975,High School,34,5.92579854
+76,M,Janitorial,29950,High School,40,9.912789393
+77,F,Production,53525,Some College,22,0.9854129039
+78,M,Production,59225,Some College,32,6.414432537
+79,M,Production,64725,High School,38,14.72332883
+80,F,Production,63175,Bachelor,32,7.434224095
+81,F,Janitorial,27400,Some College,25,2.180974583
+82,M,Production,57825,High School,30,7.829692808
+83,F,Janitorial,26600,High School,30,3.182949067
+84,M,Production,71650,Some College,42,18.2403993
+85,M,Management,117525,Bachelor,36,14.14682893
+86,M,Management,109650,Bachelor,39,10.96547053
+87,M,Production,61925,Some College,32,8.977858368
+88,F,Management,97100,Bachelor,31,5.900089657
+89,M,Production,57700,High School,30,7.692076433
+90,T,Management,100625,Bachelor,37,7.318197502
+91,F,Management,89050,Bachelor,28,2.645702851
+92,F,Production,58100,Bachelor,27,2.816779798
+93,M,Production,54375,High School,27,4.379048056
+94,M,Production,64025,Some College,40,10.98309389
+95,M,Production,64375,Some College,32,11.31480968
+96,F,Production,57850,High School,37,7.853757734
+97,M,Janitorial,27975,High School,27,5.945845718
+98,M,Production,60100,High School,34,10.09496493
+99,F,Production,56825,Bachelor,36,1.664973068
+100,F,Production,57650,Some College,28,4.912559682
+101,F,Production,53625,High School,27,3.636468989
+102,M,Production,72100,High School,49,22.10338105
+103,M,Production,57450,Some College,26,4.722365074
+104,F,Janitorial,27950,Some College,31,3.240522746
+105,M,Production,67850,Some College,37,14.62812121
+106,F,Production,58375,Some College,36,5.584880894
+107,M,Production,66475,High School,38,16.47851446
+108,M,Management,109100,Bachelor,33,10.74586913
+109,M,Production,60275,High School,35,10.28372142
+110,M,Production,66075,Some College,40,12.93935838
+111,M,Production,63775,Some College,40,10.74252338
+112,T,Production,60375,Bachelor,38,4.884541803
+113,M,Executive,541125,Graduate,47,8.037834323
+114,M,Production,64000,High School,33,13.98991937
+115,M,Production,58475,High School,31,8.482817551
+116,M,Production,61150,High School,41,11.15338962
+117,M,Janitorial,38650,Some College,44,23.62819297
+118,M,Production,65400,High School,44,15.39938844
+119,F,Janitorial,26800,High School,22,3.598260119
+120,F,Janitorial,29800,High School,31,9.582387328
+121,F,Production,63850,Bachelor,31,8.055920407
+122,M,Production,58250,Some College,35,5.478122599
+123,F,Production,58900,Bachelor,33,3.536925726
+124,M,Production,56525,High School,37,6.531659281
+125,F,Production,58000,Bachelor,30,2.737217456
+126,M,Production,54775,High School,29,4.782957847
+127,M,Production,65325,High School,36,15.33015905
+128,M,Production,57225,High School,33,7.226821552
+129,M,Production,62525,Some College,35,9.542127471
+130,F,Production,58225,High School,35,8.232443252
+131,M,Production,68375,High School,46,18.37301196
+132,M,Production,60850,High School,30,10.84998011
+133,M,Production,69900,Some College,41,16.56581417
+134,M,Janitorial,31300,High School,43,12.61400422
+135,M,Production,68775,Some College,40,15.48858362
+136,M,Production,63725,Some College,39,10.69158836
+137,F,Production,61875,Bachelor,37,6.242441953
+138,F,Janitorial,25725,High School,23,1.442430699
+139,F,Production,54525,Some College,28,1.934581701
+140,F,Production,53250,High School,33,3.240583718
+141,M,Production,70250,Some College,42,16.89991216
+142,M,Production,55675,High School,36,5.673213664
+143,M,Production,61775,High School,39,11.77446538
+144,M,Production,60475,Some College,36,7.587172743
+145,F,Production,59175,Some College,27,6.360276573
+146,M,Production,64100,Some College,43,11.05359931
+147,M,Management,122600,Bachelor,43,16.20193506
+148,M,Management,109075,Bachelor,45,10.73573397
+149,F,Production,55775,Some College,33,3.126888797
+150,F,Janitorial,33125,Bachelor,37,10.24471978
+151,M,Executive,423225,Graduate,38,4.107838282
+152,M,Management,102075,Bachelor,35,7.910875642
+153,M,Production,58225,High School,36,8.235361816
+154,M,Management,99025,Bachelor,40,6.677482365
+155,M,Management,134150,Bachelor,46,20.86671027
+156,M,Production,53725,High School,24,3.717519854
+157,F,Janitorial,30900,Bachelor,39,6.162974013
+158,M,Management,100475,Bachelor,34,7.259259726
+159,F,Production,61625,Bachelor,34,6.028062651
+160,M,Production,66100,Some College,36,12.96150479
+161,F,Management,95475,Bachelor,34,5.239757009
+162,F,Production,58600,Bachelor,36,3.283043276
+163,F,Janitorial,29550,Bachelor,38,3.709514488
+164,F,Production,65500,Some College,42,12.36951904
+165,M,Production,77875,High School,52,27.87114786
+166,F,Production,52050,High School,24,2.039734757
+167,M,Production,59825,High School,35,9.826589409
+168,F,Production,56400,Bachelor,31,1.276930273
+169,M,Production,67800,Some College,47,14.57492444
+170,M,Janitorial,30525,High School,30,11.05366049
+171,M,Production,73550,Some College,50,20.05153261
+172,M,Production,60250,Some College,35,7.369471349
+173,F,Production,54750,High School,28,4.751695337
+174,F,Production,67250,Bachelor,37,11.13778789
+175,M,Management,107375,Bachelor,43,10.04760062
+176,M,Production,55700,High School,28,5.702219731
+177,M,Production,70725,Some College,47,17.36659031
+178,M,Executive,438675,Graduate,33,4.622271504
+179,M,Management,142775,Bachelor,50,24.35264912
+180,M,Management,111175,Bachelor,35,11.5885472
+181,M,Management,116925,Bachelor,43,13.911512
+182,M,Management,110100,Bachelor,35,11.14658721
+183,F,Production,54600,High School,29,4.600099319
+184,F,Janitorial,29200,Bachelor,36,3.106568395
+185,M,Production,54975,High School,34,4.963573007
+186,M,Janitorial,31325,Some College,30,9.679891604
+187,M,Production,71700,Some College,40,18.27774019
+188,M,Production,54875,High School,29,4.88606593
+189,M,Executive,740850,Graduate,43,14.69486329
+190,M,Production,66875,High School,45,16.86849732
+191,F,Production,63525,Bachelor,37,7.760864465
+192,M,Janitorial,33250,Some College,34,13.35330865
+193,M,Production,62125,Some College,31,9.164657618
+194,M,Production,64250,Some College,43,11.18321428
+195,M,Production,58325,Some College,36,5.553349197
+196,M,Janitorial,29775,High School,38,9.541778502
+197,F,Production,64650,Some College,40,11.57305873
+198,M,Production,58400,High School,34,8.392250893
+199,F,Production,52275,High School,24,2.274662102
+200,M,Production,54450,High School,22,4.448028334
+201,F,Production,60300,Bachelor,30,4.825959189
+202,F,Production,52575,High School,27,2.578217498
+203,F,Management,103950,Bachelor,31,8.66877118
+204,M,Production,68100,Some College,38,14.85385509
+205,M,Production,69925,Some College,39,16.58794027
+206,F,Production,61575,Some College,39,8.642861163
+207,M,Production,77850,High School,58,27.84500235
+208,F,Production,68200,Bachelor,41,12.00740316
+209,F,Production,54800,Some College,24,2.188641484
+210,M,Executive,967400,Graduate,52,22.24704028
+211,M,Production,66450,Some College,39,13.28459592
+212,F,Production,54025,High School,23,4.012746015
+213,F,Production,58425,Some College,31,5.642117759
+214,M,Production,56200,Some College,30,3.525513021
+215,F,Production,54675,High School,26,4.665459969
+216,F,Production,57225,Bachelor,25,2.024726624
+217,F,Janitorial,29250,Some College,35,5.708106511
+218,M,Production,73625,Some College,43,20.12943973
+219,M,Production,56950,High School,37,6.954270386
+220,M,Janitorial,32125,High School,35,14.25349599
+221,M,Janitorial,28600,High School,28,7.213514581
+222,M,Production,73550,Some College,52,20.04259291
+223,M,Production,62000,Some College,40,9.039146019
+224,F,Janitorial,26650,High School,25,3.27696456
+225,T,Production,55500,Bachelor,31,0.4500646761
+226,M,Production,72675,High School,42,22.68064965
+227,F,Production,62550,Bachelor,31,6.864442955
+228,M,Production,61825,High School,33,11.83423582
+229,F,Production,54425,High School,33,4.428301972
+230,M,Production,59550,Some College,35,6.722184615
+231,M,Janitorial,27800,High School,27,5.607618841
+232,M,Production,59050,Some College,28,6.241635061
+233,F,Janitorial,27275,Some College,27,1.951196416
+234,M,Production,61875,Some College,34,8.921635848
+235,M,Production,59375,Some College,31,6.550950682
+236,M,Production,58225,High School,36,8.229126404
+237,F,Management,93750,Bachelor,39,4.544964333
+238,M,Production,55825,High School,34,5.824561969
+239,M,Management,119575,Bachelor,40,14.97620469
+240,M,Production,66625,High School,44,16.62084271
+241,F,Janitorial,27150,High School,33,4.320385554
+242,M,Production,59900,Some College,30,7.050970157
+243,F,Janitorial,28825,Bachelor,32,2.431790215
+244,F,Janitorial,30700,Bachelor,28,5.801826245
+245,F,Production,64650,Bachelor,41,8.765544464
+246,F,Janitorial,26375,High School,25,2.733605038
+247,M,Production,76575,High School,54,26.56437286
+248,M,Production,77175,High School,54,27.16259232
+249,F,Production,65025,Bachelor,31,9.102895391
+250,M,Production,65200,Some College,43,12.10567971
+251,M,Production,75300,Some College,48,21.72287544
+252,M,Management,100475,Bachelor,31,7.263887243
+253,F,Janitorial,27000,Some College,23,1.439533796
+254,T,Janitorial,28450,Bachelor,36,1.732466347
+255,M,Management,124925,Bachelor,50,17.14504541
+256,M,Janitorial,27250,High School,24,4.49483676
+257,M,Production,60100,High School,37,10.09872946
+258,F,Production,60225,Some College,38,7.353712309
+259,F,Production,56525,Bachelor,30,1.385107459
+260,T,Management,104375,Bachelor,36,8.835127934
+261,M,Production,51925,High School,28,1.923857527
+262,F,Janitorial,31650,Bachelor,37,7.530472085
+263,M,Production,63775,Some College,34,10.72858757
+264,M,Production,65225,Some College,39,12.12938623
+265,M,Janitorial,31925,High School,43,13.8403402
+266,M,Production,56400,High School,27,6.391262369
+267,M,Production,60625,Some College,35,7.74674861
+268,M,Production,62500,High School,42,12.49502906
+269,M,Production,63925,High School,32,13.91725441
+270,M,Production,56400,Some College,36,3.720319647
+271,M,Production,66325,High School,42,16.32356843
+272,M,Executive,624075,Graduate,39,10.80226159
+273,M,Production,58625,High School,36,8.63668256
+274,M,Production,71275,High School,39,21.27514642
+275,F,Production,60750,Some College,36,7.861853318
+276,F,Janitorial,29075,Bachelor,25,2.864191161
+277,F,Production,59825,High School,40,9.814521729
+278,M,Production,58625,High School,32,8.637105675
+279,F,Management,90475,Bachelor,28,3.223207587
+280,M,Janitorial,27825,High School,30,5.635224847
+281,M,Production,66525,Some College,34,13.36184575
+282,M,Production,57375,High School,31,7.37957707
+283,M,Production,60775,Some College,28,7.88181078
+284,F,Production,59100,Some College,28,6.277134796
+285,M,Executive,715750,Graduate,42,13.85809371
+286,F,Production,58250,Some College,29,5.478442766
+287,M,Production,65675,Some College,37,12.55870906
+288,F,Janitorial,27550,Bachelor,25,0.08321647643
+289,F,Production,58975,Bachelor,27,3.603181647
+290,M,Production,57125,High School,30,7.114001619
+291,M,Production,63075,Some College,33,10.06102906
+292,F,Production,56100,Bachelor,24,1.010003618
+293,M,Production,62425,Some College,37,9.446848339
+294,M,Management,129375,Bachelor,52,18.9364365
+295,M,Production,59900,High School,34,9.897039516
+296,M,Executive,693975,Graduate,52,13.13277857
+297,M,Janitorial,28400,High School,31,6.812348242
+298,F,Production,57675,Bachelor,34,2.435443204
+299,M,Production,61850,Some College,36,8.893886947
+300,M,Janitorial,32650,Some College,40,12.18939074
+301,M,Production,53750,High School,32,3.739932138
+302,F,Production,57200,Some College,25,4.466399824
+303,M,Management,86575,Bachelor,36,1.647581923
+304,F,Janitorial,27650,Bachelor,34,0.2937506879
+305,M,Production,57000,High School,35,6.991207614
+306,T,Management,97100,Bachelor,36,5.903629123
+307,M,Management,118625,Bachelor,40,14.59647107
+308,F,Janitorial,26900,Some College,28,1.226582433
+309,F,Janitorial,28125,Some College,33,3.555158664
+310,M,Production,61900,High School,32,11.88784179
+311,F,Management,101250,Bachelor,37,7.577536937
+312,M,Management,105550,Bachelor,37,9.313978326
+313,M,Management,131700,Bachelor,46,19.87935423
+314,F,Management,88200,Bachelor,24,2.299417491
+315,M,Executive,683800,Graduate,42,12.79306799
+316,F,Production,57800,High School,37,7.791573647
+317,M,Janitorial,29650,High School,35,9.276948924
+318,F,Janitorial,27225,Some College,23,1.860698585
+319,M,Production,68275,High School,41,18.28076126
+320,M,Production,63050,High School,31,13.04404828
+321,M,Production,73275,Some College,41,19.78292849
+322,F,Janitorial,31100,Bachelor,39,6.526210075
+323,M,Production,63525,High School,42,13.52270894
+324,M,Production,64475,Some College,43,11.4046577
+325,M,Production,59525,High School,35,9.520975519
+326,M,Production,57375,Some College,30,4.641769661
+327,M,Management,112075,Bachelor,41,11.9502058
+328,T,Management,92475,Bachelor,34,4.033370885
+329,F,Janitorial,31275,Bachelor,30,6.854198238
+330,M,Management,102400,Bachelor,36,8.036636762
+331,F,Janitorial,27525,Some College,31,2.411003684
+332,M,Production,62750,High School,41,12.75932742
+333,M,Production,63375,Some College,33,10.35354434
+334,M,Production,58900,Some College,34,6.087879805
+335,M,Production,70200,Some College,46,16.86469538
+336,M,Production,64925,Some College,40,11.83603528
+337,F,Production,58150,Bachelor,37,2.874765429
+338,F,Management,92375,Bachelor,31,3.9850687
+339,F,Production,57425,Some College,31,4.69970691
+340,M,Executive,778125,Graduate,47,15.93748029
+341,F,Janitorial,28500,Some College,32,4.281545649
+342,M,Production,72900,Some College,51,19.42946281
+343,F,Janitorial,29925,Some College,28,7.010038422
+344,M,Production,55800,Some College,34,3.136906184
+345,F,Janitorial,28325,Some College,30,3.936977213
+346,M,Production,58475,Some College,36,5.6809955
+347,M,Production,52850,High School,24,2.838179518
+348,F,Management,99575,Bachelor,40,6.900855386
+349,F,Production,53100,High School,33,3.100744767
+350,M,Production,69225,Some College,39,15.91830022
+351,F,Management,92425,Bachelor,32,4.011378502
+352,M,Production,61900,High School,39,11.8916474
+353,F,Management,94150,Bachelor,35,4.703045642
+354,M,Executive,558275,Graduate,45,8.609172266
+355,M,Production,61175,High School,41,11.1735214
+356,M,Production,64650,High School,45,14.64844512
+357,F,Production,52725,High School,22,2.714965761
+358,M,Production,71550,High School,45,21.56134325
+359,F,Production,61025,Bachelor,27,5.471329347
+360,F,Production,57300,High School,25,7.297586537
+361,F,Janitorial,28725,Some College,34,4.709899895
+362,M,Production,68675,High School,47,18.68430003
+363,M,Janitorial,32625,Some College,38,12.12046443
+364,M,Production,60825,Some College,38,7.921116318
+365,F,Production,64125,Some College,42,11.06661233
+366,F,Production,58100,Bachelor,29,2.819105526
+367,M,Management,105250,Bachelor,31,9.194998208
+368,F,Production,57025,Some College,24,4.32129297
+369,M,Executive,400450,Graduate,41,3.347964864
+370,M,Management,111450,Bachelor,40,11.69233926
+371,M,Production,55875,High School,32,5.881128783
+372,M,Production,71625,Some College,40,18.20767134
+373,F,Production,60850,Some College,33,7.941343678
+374,F,Production,56650,Some College,29,3.955799664
+375,F,Janitorial,25900,High School,23,1.776148672
+376,M,Janitorial,30850,High School,40,11.6984251
+377,F,Production,57050,High School,33,7.0446904
+378,M,Production,55025,High School,33,5.036150618
+379,F,Production,56025,High School,30,6.013336106
+380,F,Production,55675,Some College,29,3.032675484
+381,M,Production,59825,High School,40,9.833547797
+382,M,Production,56475,High School,30,6.483192257
+383,F,Janitorial,28950,Some College,36,5.139595057
+384,M,Management,137925,Bachelor,54,22.39857688
+385,F,Janitorial,25375,High School,25,0.7529911415
+386,F,Production,61350,Some College,31,8.436303178
+387,M,Production,64850,Some College,40,11.77078192
+388,M,Production,63475,High School,32,13.4752554
+389,M,Janitorial,26900,High School,31,3.786871847
+390,M,Production,52050,High School,22,2.056684637
+391,M,Production,55825,Some College,27,3.176539365
+392,F,Management,88725,Bachelor,27,2.519809048
+393,M,Janitorial,32925,Some College,43,12.72380032
+394,M,Production,63075,High School,35,13.07830132
+395,M,Production,67650,Some College,43,14.42016878
+396,M,Production,64100,Some College,34,11.04103907
+397,M,Production,66275,High School,40,16.283287
+398,M,Production,67625,High School,37,17.62514961
+399,M,Production,55025,High School,23,5.022550175
+400,M,Janitorial,28800,High School,38,7.59039416
+401,M,Production,60925,High School,39,10.91933564
+402,M,Management,87975,Bachelor,35,2.211706451
+403,M,Janitorial,32050,High School,40,14.1107769
+404,F,Production,54175,High School,34,4.177982144
+405,M,Production,65025,High School,34,15.03304669
+406,M,Production,63625,High School,39,13.61261461
+407,M,Production,53225,High School,21,3.227287049
+408,M,Production,67275,Some College,37,14.06724591
+409,F,Management,85650,Bachelor,23,1.270198259
+410,F,Management,85125,Bachelor,27,1.057834779
+411,M,Production,62050,High School,41,12.06248023
+412,M,Management,140450,Bachelor,54,23.41092617
+413,F,Production,56800,Bachelor,30,1.636319865
+414,M,Production,71400,Some College,46,17.99961521
+415,M,Production,66000,High School,39,16.00981157
+416,F,Janitorial,32100,Some College,42,11.14969417
+417,F,Production,58250,High School,29,8.251466152
+418,F,Production,56125,High School,31,6.121346956
+419,M,Janitorial,29300,High School,34,8.597662973
+420,F,Production,58050,High School,36,8.052912071
+421,T,Production,54825,High School,29,4.818180573
+422,T,Production,57125,High School,35,7.114403369
+423,F,Production,54300,High School,28,4.303897696
+424,F,Production,59250,Bachelor,36,3.855120643
+425,M,Management,105475,Bachelor,33,9.281319527
+426,M,Production,57450,Some College,27,4.721582587
+427,M,Janitorial,28725,High School,33,7.455263542
+428,M,Production,57700,Some College,32,4.953180631
+429,M,Production,67525,High School,42,17.52090338
+430,M,Production,59375,High School,29,9.364044355
+431,F,Janitorial,27475,High School,25,4.940972473
+432,M,Production,70350,High School,41,20.35465061
+433,M,Production,54375,High School,22,4.364138481
+434,M,Production,65075,High School,42,15.06814477
+435,M,Production,64375,Some College,31,11.30853745
+436,F,Janitorial,28150,Bachelor,23,1.19008793
+437,M,Production,56525,High School,33,6.526764044
+438,M,Janitorial,31225,Some College,34,9.454058982
+439,M,Management,104275,Bachelor,40,8.802365681
+440,M,Production,62325,High School,31,12.32712465
+441,M,Janitorial,34550,High School,39,19.10820511
+442,F,Production,61425,Bachelor,33,5.840056485
+443,M,Management,102375,Bachelor,41,8.026190797
+444,M,Janitorial,31025,Some College,36,9.114901154
+445,F,Management,102425,Bachelor,30,8.055191357
+446,M,Production,59275,Some College,32,6.450458983
+447,M,Production,60550,Some College,38,7.659159482
+448,M,Production,58150,Some College,33,5.38917746
+449,M,Production,62225,High School,35,12.23684696
+450,M,Management,107725,Bachelor,43,10.18847909
+451,F,Production,53450,High School,22,3.442795309
+452,F,Production,56500,Some College,29,3.805283044
+453,M,Production,61375,High School,29,11.37242055
+454,M,Production,67600,Some College,35,14.37244449
+455,F,Janitorial,26425,Some College,21,0.3248584249
+456,F,Production,58575,Bachelor,37,3.253847812
+457,M,Production,56750,Some College,24,4.053368988
+458,M,Production,72225,Some College,40,18.79651184
+459,M,Production,63200,Some College,42,10.19760062
+460,F,Janitorial,30875,Bachelor,29,6.124295981
+461,F,Janitorial,28675,Some College,36,4.606224396
+462,F,Management,88350,Bachelor,36,2.366494204
+463,M,Production,62175,Some College,40,9.219137968
+464,M,Janitorial,32400,High School,40,14.82164989
+465,M,Production,57825,High School,28,7.812937672
+466,M,Production,71000,High School,41,21.00420681
+467,M,Production,67400,Some College,42,14.1896109
+468,F,Janitorial,29550,High School,35,9.098512856
+469,F,Janitorial,26075,High School,30,2.125245991
+470,M,Production,59950,High School,35,9.938449881
+471,M,Production,65775,High School,43,15.7740797
+472,F,Janitorial,28325,High School,25,6.626531627
+473,M,Production,69625,High School,50,19.61508802
+474,M,Production,62175,Some College,29,9.212338412
+475,M,Janitorial,29600,High School,34,9.197058157
+476,T,Production,58125,Bachelor,35,2.835768819
+477,M,Production,56475,High School,31,6.468448825
+478,M,Production,56675,Some College,34,3.983677485
+479,M,Management,110425,Bachelor,38,11.28572594
+480,M,Janitorial,32675,High School,37,15.37412025
+481,M,Production,64725,High School,34,14.71752706
+482,F,Janitorial,28075,Bachelor,33,1.064702189
+483,F,Janitorial,26675,High School,22,3.369879469
+484,M,Production,63825,High School,40,13.8276008
+485,F,Production,53250,Some College,27,0.7244850195
+486,M,Production,65700,High School,34,15.70791727
+487,M,Production,56125,High School,35,6.114544575
+488,F,Management,90300,Bachelor,35,3.154867693
+489,F,Production,58425,Bachelor,25,3.116574605
+490,M,Production,59875,High School,29,9.86523105
+491,F,Janitorial,29575,Some College,34,6.322223077
+492,F,Production,51000,High School,23,0.9975968238
+493,M,Management,121325,Bachelor,43,15.68246595
+494,M,Production,59025,High School,35,9.034529861
+495,M,Production,71600,High School,47,21.60666568
+496,M,Production,62650,High School,39,12.6380761
+497,F,Janitorial,25425,High School,24,0.8649222646
+498,M,Production,63725,High School,35,13.73454076
+499,M,Production,65500,High School,42,15.49207092
+500,F,Production,59300,Some College,32,6.485431097
+501,M,Production,56450,High School,28,6.443894774
+502,F,Janitorial,28950,High School,30,7.916105771
+503,M,Production,68450,High School,36,18.44801784
+504,M,Production,60350,Some College,33,7.464360956
+505,F,Janitorial,30200,Some College,30,7.524495953
+506,M,Janitorial,28475,Some College,32,4.246346735
+507,M,Production,65150,High School,34,15.14605047
+508,T,Production,51300,High School,21,1.305826324
+509,F,Production,58150,Some College,31,5.380532865
+510,M,Management,134700,Bachelor,53,21.0936411
+511,F,Production,57175,High School,37,7.168174111
+512,M,Production,72800,Some College,48,19.33149294
+513,F,Janitorial,28825,Some College,31,4.885347399
+514,F,Production,58975,High School,31,8.964828976
+515,M,Production,59450,Some College,29,6.614143385
+516,M,Janitorial,26675,High School,27,3.372554114
+517,M,Janitorial,31600,High School,39,13.17501984
+518,F,Production,53700,High School,30,3.709976452
+519,F,Management,86000,Bachelor,31,1.413973451
+520,M,Production,71800,High School,49,21.81119963
+521,M,Production,54800,High School,30,4.811289372
+522,M,Production,51750,High School,21,1.76162725
+523,F,Production,63825,High School,40,13.81258767
+524,F,Production,58525,Some College,36,5.742083562
+525,M,Production,60250,High School,28,10.25377046
+526,M,Production,59575,High School,38,9.574440922
+527,M,Production,59100,High School,36,9.10120613
+528,F,Production,50875,High School,24,0.8723000398
+529,F,Janitorial,27825,Some College,32,3.023628339
+530,M,Production,55500,High School,27,5.503751999
+531,M,Production,62875,Some College,31,9.891078232
+532,M,Production,63750,High School,37,13.76178714
+533,M,Executive,673150,Graduate,51,12.43796355
+534,M,Management,106325,Bachelor,32,9.62372278
+535,M,Production,61225,High School,37,11.21696507
+536,M,Janitorial,28875,High School,30,7.764982545
+537,M,Production,59425,Some College,32,6.604126059
+538,F,Production,57250,High School,30,7.249072432
+539,M,Production,52675,High School,33,2.665657705
+540,M,Production,55575,Some College,31,2.931981062
+541,M,Production,62375,High School,36,12.37230205
+542,F,Janitorial,27400,High School,31,4.813608307
+543,M,Management,104825,Bachelor,38,9.018411581
+544,F,Production,55375,High School,31,5.374273667
+545,M,Production,59200,Some College,36,6.391390886
+546,M,Janitorial,32050,Some College,38,11.03993334
+547,M,Janitorial,31350,High School,40,12.70514446
+548,M,Management,106625,Bachelor,38,9.746803186
+549,M,Production,60300,Some College,35,7.420443834
+550,F,Management,90550,Bachelor,36,3.249503514
+551,M,Management,99100,Bachelor,38,6.707513309
+552,M,Production,68050,Some College,44,14.80966133
+553,F,Janitorial,30875,Bachelor,39,6.150540386
+554,M,Production,60975,Some College,35,8.070544658
+555,M,Production,64600,Some College,43,11.5171539
+556,F,Production,55275,High School,24,5.276099598
+557,M,Production,54525,High School,31,4.516484633
+558,M,Management,90275,Bachelor,33,3.140974742
+559,M,Production,61875,Some College,40,8.926384785
+560,M,Production,56625,High School,27,6.614790537
+561,M,Production,59775,Some College,35,6.917711213
+562,M,Janitorial,29250,Some College,37,5.728836846
+563,M,Production,52275,High School,32,2.283365903
+564,M,Janitorial,28775,Some College,35,4.812058553
+565,F,Janitorial,27700,Some College,34,2.76555347
+566,M,Production,57725,High School,28,7.718875306
+567,F,Production,68900,Bachelor,45,12.64588501
+568,M,Janitorial,31775,High School,43,13.55882706
+569,F,Production,55875,High School,32,5.878766461
+570,F,Production,61825,Some College,33,8.887140276
+571,F,Production,54475,High School,31,4.479957271
+572,M,Executive,718600,Graduate,49,13.95298424
+573,M,Janitorial,28950,High School,26,7.890125605
+574,M,Production,68900,High School,45,18.90112668
+575,F,Janitorial,29050,Bachelor,30,2.810967588
+576,M,Production,65850,Some College,44,12.712911
+577,M,Production,52450,High School,25,2.448666965
+578,M,Management,117800,Bachelor,39,14.26202141
+579,F,Production,60575,Some College,33,7.690790692
+580,M,Production,71100,Some College,47,17.71029737
+581,F,Production,65875,Bachelor,44,9.876569736
+582,F,Janitorial,28125,High School,25,6.239474542
+583,M,Production,52850,High School,32,2.858026299
+584,M,Management,101375,Bachelor,38,7.631091713
+585,M,Janitorial,31475,Some College,36,9.970177419
+586,F,Production,54625,Some College,34,2.017588344
+587,F,Production,55775,High School,35,5.763104934
+588,M,Production,63925,High School,34,13.92687421
+589,M,Production,57750,High School,36,7.756540665
+590,F,Management,96600,Bachelor,29,5.698541495
+591,M,Production,59125,High School,27,9.122585612
+592,M,Production,56625,High School,30,6.625214972
+593,F,Production,53650,High School,30,3.65736211
+594,M,Production,66850,Some College,39,13.66835223
+595,M,Production,69125,Some College,45,15.8357848
+596,F,Production,64100,Some College,32,11.05685563
+597,M,Executive,645975,Graduate,43,11.53230934
+598,M,Production,63775,High School,43,13.78282578
+599,M,Janitorial,29700,High School,27,9.406362172
+600,F,Production,59150,Some College,26,6.339127311
+601,M,Production,60500,High School,31,10.49290368
+602,M,Production,65575,High School,38,15.57266252
+603,F,Production,52350,High School,32,2.339799467
+604,T,Production,61950,Some College,32,8.990258109
+605,M,Production,63875,High School,37,13.86725634
+606,M,Production,61525,Some College,40,8.605930594
+607,M,Production,62275,Some College,38,9.313959587
+608,F,Production,57500,Some College,26,4.770586674
+609,M,Production,70200,High School,44,20.1997327
+610,F,Management,99500,Bachelor,34,6.867495396
+611,M,Production,59125,High School,33,9.129351275
+612,M,Management,109075,Bachelor,37,10.73699012
+613,F,Management,99150,Bachelor,34,6.723878441
+614,M,Production,61350,Some College,37,8.419616015
+615,F,Janitorial,25650,High School,26,1.3120223
+616,M,Production,56125,High School,35,6.12288413
+617,F,Production,56250,Bachelor,31,1.133542437
+618,F,Production,58500,Bachelor,28,3.183944692
+619,M,Production,71400,High School,44,21.40070035
+620,F,Production,58950,High School,36,8.952759285
+621,F,Production,61950,Bachelor,31,6.329394013
+622,F,Janitorial,30625,Some College,28,8.351578204
+623,F,Management,89825,Bachelor,30,2.956646861
+624,M,Production,66825,High School,36,16.81319043
+625,F,Janitorial,30475,Bachelor,37,5.38702411
+626,F,Janitorial,30100,Some College,29,7.338749817
+627,M,Management,109075,Bachelor,40,10.7406337
+628,F,Production,57025,Bachelor,35,1.851095399
+629,M,Management,97375,Bachelor,37,6.013113439
+630,F,Janitorial,30275,Bachelor,27,5.066366571
+631,M,Production,52075,High School,27,2.071886708
+632,M,Production,54050,High School,30,4.046859453
+633,F,Janitorial,27200,Some College,33,1.792269398
+634,M,Production,59325,Some College,30,6.504024451
+635,F,Janitorial,29275,Some College,31,5.750865922
+636,M,Management,101450,Bachelor,42,7.659417022
+637,F,Production,53850,Some College,32,1.291062307
+638,M,Management,143025,Bachelor,52,24.4579631
+639,M,Production,65600,High School,35,15.61111673
+640,M,Production,67300,High School,44,17.30354403
+641,M,Production,69475,Some College,38,16.17741381
+642,M,Management,128850,Bachelor,46,18.7255614
+643,M,Management,106375,Bachelor,35,9.642746105
+644,M,Production,56150,High School,35,6.144794798
+645,M,Management,107975,Bachelor,32,10.29783752
+646,M,Production,65150,High School,40,15.16149477
+647,F,Production,58950,Bachelor,27,3.581098905
+648,T,Janitorial,25825,High School,28,1.666222246
+649,M,Management,115400,Bachelor,45,13.2934821
+650,M,Production,54150,High School,23,4.140499968
+651,F,Production,54425,Some College,24,1.838724854
+652,F,Production,61000,Some College,29,8.091542541
+653,F,Production,58550,Bachelor,30,3.231390229
+654,F,Janitorial,27825,High School,35,5.643900125
+655,F,Production,58875,Bachelor,35,3.520743485
+656,T,Production,63100,Bachelor,29,7.371985886
+657,F,Production,62375,Some College,37,9.409407891
+658,M,Production,62250,Some College,34,9.278030884
+659,F,Production,53925,High School,25,3.926009307
+660,M,Production,60350,High School,29,10.34777396
+661,M,Production,59550,High School,29,9.548991201
+662,F,Production,53225,High School,33,3.218172644
+663,F,Production,58050,Bachelor,27,2.783392452
+664,M,Production,67125,High School,42,17.13003556
+665,F,Management,110225,Bachelor,39,11.20602946
+666,M,Production,64125,High School,38,14.12315835
+667,M,Production,60675,Some College,36,7.781639898
+668,M,Production,60725,High School,34,10.73569758
+669,M,Management,102225,Bachelor,32,7.966794677
+670,M,Janitorial,29425,Some College,36,6.041250741
+671,M,Management,115025,Bachelor,46,13.13915407
+672,M,Executive,687350,Graduate,43,12.91204833
+673,M,Production,53850,High School,30,3.856252783
+674,M,Production,59425,Some College,32,6.59465006
+675,F,Production,56450,Some College,27,3.757351024
+676,M,Production,57750,High School,32,7.748863162
+677,M,Production,57000,Some College,26,4.294557925
+678,F,Production,60725,Bachelor,28,5.193190044
+679,M,Executive,575975,Graduate,46,9.198881783
+680,F,Janitorial,29225,High School,38,8.471011463
+681,M,Production,63400,Some College,41,10.38922768
+682,M,Management,88575,Bachelor,31,2.455914594
+683,F,Production,54825,Some College,29,2.222848497
+684,F,Production,61375,Bachelor,28,5.794578518
+685,M,Executive,441250,Graduate,40,4.708667929
+686,M,Janitorial,29750,High School,30,9.48152841
+687,M,Production,68025,Some College,42,14.77835464
+688,M,Production,61550,High School,41,11.53769008
+689,F,Production,56200,High School,34,6.205965272
+690,M,Production,65800,High School,43,15.79139409
+691,M,Production,59875,High School,39,9.881829499
+692,M,Production,68575,High School,47,18.57596397
+693,M,Production,61375,High School,35,11.36280775
+694,M,Janitorial,31975,Some College,39,10.91400512
+695,M,Production,62800,Some College,30,9.8210381
+696,F,Management,91450,Bachelor,34,3.617036388
+697,M,Production,57525,Some College,25,4.779600711
+698,M,Production,72975,High School,44,22.98437619
+699,M,Production,54750,High School,28,4.754463582
+700,M,Production,58400,Some College,30,5.621455183
+701,M,Management,103325,Bachelor,39,8.418943491
+702,F,Janitorial,27925,Some College,31,3.181855559
+703,M,Janitorial,29675,High School,27,9.334726523
+704,M,Production,76725,High School,50,26.71442686
+705,M,Management,97175,Bachelor,34,5.932591544
+706,M,Production,54725,High School,32,4.729462782
+707,M,Production,55900,High School,25,5.888836501
+708,M,Management,112500,Bachelor,37,12.1188879
+709,M,Management,102425,Bachelor,31,8.051509952
+710,F,Production,59025,Bachelor,28,3.653168389
+711,M,Production,61700,High School,37,11.69366047
+712,M,Production,58550,High School,37,8.544735764
+713,M,Janitorial,26450,High School,32,2.879869412
+714,M,Executive,748550,Graduate,48,14.9519817
+715,M,Production,63125,High School,38,13.11381781
+716,M,Production,60150,High School,29,10.14321168
+717,F,Management,89525,Bachelor,25,2.839922749
+718,F,Production,53925,High School,26,3.924889296
+719,M,Production,56225,High School,25,6.235592351
+720,F,Production,50200,High School,30,0.197964177
+721,M,Production,69000,High School,37,18.9890564
+722,M,Production,59000,High School,37,8.991370838
+723,M,Production,61975,High School,31,11.96914947
+724,M,Production,58000,High School,34,7.999968438
+725,F,Janitorial,28075,Some College,26,3.484237857
+726,F,Janitorial,29150,High School,35,8.313713171
+727,F,Management,93850,Bachelor,32,4.586907383
+728,M,Production,64300,High School,38,14.30312082
+729,F,Management,90600,Bachelor,34,3.27462363
+730,M,Production,55000,High School,24,5.000505348
+731,F,Janitorial,29475,Bachelor,26,3.568946449
+732,T,Production,62475,Bachelor,41,6.8004006
+733,F,Production,55350,High School,24,5.357048585
+734,F,Production,54125,Some College,34,1.553095796
+735,F,Janitorial,27700,Bachelor,30,0.3693054991
+736,F,Production,58200,High School,34,8.195042052
+737,M,Production,57925,High School,35,7.918580989
+738,M,Management,132025,Bachelor,46,20.00993885
+739,F,Production,52775,High School,24,2.777212732
+740,M,Production,60000,High School,33,9.997570837
+741,M,Executive,496900,Graduate,40,6.563491232
+742,F,Janitorial,25825,High School,25,1.654919779
+743,M,Janitorial,28125,High School,28,6.235071534
+744,F,Production,55525,High School,26,5.519765149
+745,F,Janitorial,27950,Some College,30,3.228485685
+746,M,Production,66175,High School,39,16.18525064
+747,T,Production,57850,Some College,28,5.106887016
+748,M,Production,69725,Some College,40,16.40749521
+749,M,Production,66975,High School,47,16.96695071
+750,M,Production,56875,High School,35,6.886521594
+751,M,Production,59975,High School,35,9.978277601
+752,M,Management,111850,Bachelor,41,11.85861164
+753,M,Production,53575,High School,31,3.575186062
+754,F,Janitorial,29050,Bachelor,29,2.809611034
+755,F,Production,56725,Some College,33,4.033832505
+756,F,Production,60450,Bachelor,27,4.962712117
+757,M,Management,87575,Bachelor,35,2.050969351
+758,F,Production,57400,High School,34,7.398237743
+759,M,Janitorial,27475,High School,32,4.972543102
+760,M,Production,61175,High School,37,11.17799171
+761,T,Production,64300,Some College,33,11.24051688
+762,M,Production,61625,High School,41,11.61937575
+763,F,Production,58500,High School,39,8.500746854
+764,M,Janitorial,40650,Some College,52,27.4412754
+765,F,Janitorial,29100,High School,28,8.196893964
+766,F,Janitorial,28650,Bachelor,34,2.083492892
+767,M,Production,56075,High School,32,6.076229984
+768,M,Janitorial,28350,High School,35,6.721744804
+769,M,Management,110875,Bachelor,45,11.46968148
+770,T,Production,65150,Bachelor,43,9.235983319
+771,M,Production,61100,High School,34,11.09967372
+772,T,Janitorial,31375,High School,43,12.76434356
+773,M,Janitorial,40100,Some College,53,26.39419251
+774,M,Production,57100,Some College,34,4.372389602
+775,F,Management,84725,Bachelor,30,0.8972203955
+776,F,Production,60075,Some College,39,7.203808786
+777,M,Production,66400,High School,36,16.40505621
+778,M,Production,63375,Some College,31,10.35827835
+779,M,Production,63375,High School,35,13.37006544
+780,F,Production,50175,High School,27,0.1848385776
+781,M,Production,61900,High School,37,11.89088559
+782,M,Production,60550,Some College,37,7.671194437
+783,M,Production,66200,High School,39,16.19197593
+784,M,Production,53325,High School,23,3.326661636
+785,M,Management,100200,Bachelor,29,7.155727539
+786,F,Production,53850,High School,33,3.852807793
+787,M,Production,67375,Some College,45,14.17312916
+788,M,Production,68025,Some College,35,14.79333197
+789,M,Production,70950,Some College,42,17.5611998
+790,F,Management,103075,Bachelor,42,8.309192861
+791,M,Production,55625,High School,35,5.635211374
+792,M,Production,59450,Some College,34,6.615984594
+793,M,Production,61950,Some College,34,9.007468706
+794,M,Janitorial,26825,Some College,29,1.090247567
+795,M,Production,66625,Some College,40,13.45764501
+796,F,Production,55675,High School,28,5.671528652
+797,M,Executive,799975,Graduate,55,16.66557281
+798,F,Production,56675,Some College,26,3.97003384
+799,M,Production,62100,High School,34,12.09915441
+800,F,Production,62900,Bachelor,34,7.184098142
+801,M,Janitorial,30225,High School,36,10.44555107
+802,M,Production,63275,High School,39,13.28615525
+803,M,Production,55250,High School,34,5.260896
+804,M,Production,62350,Some College,33,9.377586461
+805,F,Production,58875,Some College,29,6.07960371
+806,M,Executive,668325,Graduate,48,12.27720228
+807,M,Production,72050,High School,45,22.04527695
+808,M,Production,59075,Some College,36,6.255135931
+809,F,Production,58700,Bachelor,26,3.366100468
+810,F,Production,55325,Some College,33,2.680193015
+811,F,Janitorial,29600,Bachelor,31,3.814959477
+812,M,Production,60300,High School,40,10.30480869
+813,M,Production,60800,High School,32,10.79868607
+814,M,Management,124850,Bachelor,46,17.11066089
+815,M,Management,109300,Bachelor,39,10.82389721
+816,F,Production,57100,Bachelor,35,1.910993789
+817,F,Janitorial,31775,High School,44,13.54521155
+818,M,Janitorial,25675,High School,28,1.36542205
+819,M,Janitorial,26450,High School,33,2.914435211
+820,F,Janitorial,28175,High School,24,6.339310127
+821,F,Janitorial,31200,Bachelor,34,6.743509728
+822,M,Management,95525,Bachelor,28,5.265211177
+823,F,Production,58100,Some College,26,5.343092014
+824,M,Production,57475,High School,32,7.469388032
+825,M,Janitorial,28675,High School,37,7.344217424
+826,M,Production,56125,High School,35,6.134749702
+827,M,Production,55425,High School,25,5.424763063
+828,F,Janitorial,31700,Bachelor,30,7.628466789
+829,F,Production,57900,Some College,29,5.131578377
+830,M,Production,55150,High School,28,5.139274516
+831,M,Management,103625,Bachelor,41,8.53898648
+832,M,Production,58100,High School,36,8.110545993
+833,F,Production,60425,Some College,33,7.556440021
+834,M,Production,60625,Some College,34,7.740638973
+835,M,Management,128875,Bachelor,49,18.73878097
+836,T,Management,101125,Bachelor,30,7.527521223
+837,F,Production,57425,Bachelor,25,2.194839791
+838,M,Production,60075,High School,34,10.07452824
+839,F,Production,57750,Some College,34,4.999336587
+840,F,Production,57900,Some College,34,5.148197853
+841,M,Production,63375,High School,39,13.36391079
+842,T,Production,58550,Bachelor,36,3.218614066
+843,M,Production,58150,Some College,37,5.390711561
+844,M,Production,57175,High School,26,7.185428607
+845,F,Production,59225,Bachelor,37,3.839052255
+846,F,Janitorial,27850,High School,32,5.701922982
+847,M,Production,71350,High School,47,21.35094639
+848,M,Production,61750,High School,37,11.74865703
+849,M,Production,60725,Some College,34,7.830722076
+850,M,Management,108500,Bachelor,44,10.50173255
+851,F,Janitorial,30375,Some College,28,7.836803752
+852,M,Production,57675,High School,31,7.683463075
+853,M,Production,58500,High School,36,8.505518928
+854,M,Management,111575,Bachelor,37,11.74629843
+855,F,Production,60425,Bachelor,31,4.923389619
+856,M,Production,64975,High School,42,14.96883651
+857,M,Management,146050,Bachelor,51,25.67479586
+858,M,Executive,550125,Graduate,38,8.337870393
+859,M,Management,93325,Bachelor,35,4.375000033
+860,M,Janitorial,36175,High School,43,22.32528064
+861,F,Production,64200,Some College,36,11.13341191
+862,M,Management,132800,Bachelor,52,20.32272243
+863,M,Production,60950,Some College,40,8.038089587
+864,F,Production,50800,High School,21,0.7996596462
+865,F,Production,58925,Bachelor,31,3.557129413
+866,F,Production,65000,Bachelor,36,9.092760251
+867,M,Management,104475,Bachelor,39,8.876444844
+868,F,Management,104350,Bachelor,37,8.826719901
+869,M,Production,65675,High School,40,15.67596321
+870,M,Production,56025,High School,32,6.019059131
+871,M,Production,61000,High School,36,11.00261613
+872,M,Management,109025,Bachelor,40,10.71218604
+873,F,Management,86050,Bachelor,26,1.435145394
+874,M,Production,69800,High School,43,19.80763366
+875,M,Production,64825,Some College,43,11.74214769
+876,F,Janitorial,34200,Some College,37,15.15898181
+877,M,Production,60750,High School,29,10.74267449
+878,F,Janitorial,32000,High School,35,13.99574652
+879,M,Production,62375,High School,36,12.38729767
+880,M,Management,102550,Bachelor,34,8.104544022
+881,M,Production,54600,High School,33,4.59826264
+882,F,Production,62225,Some College,35,9.26084981
+883,M,Management,114575,Bachelor,41,12.96171336
+884,M,Production,65725,High School,37,15.73321323
+885,F,Production,61100,Bachelor,36,5.540879114
+886,M,Production,65400,High School,33,15.40364184
+887,F,Production,56650,High School,28,6.662047071
+888,M,Production,63925,Some College,38,10.88573411
+889,M,Production,53050,High School,21,3.058884083
+890,M,Production,61300,High School,38,11.2994333
+891,F,Janitorial,28350,Some College,32,4.007076137
+892,F,Janitorial,30550,Some College,34,8.174055606
+893,M,Production,61575,High School,37,11.58378797
+894,F,Janitorial,30250,Bachelor,27,5.007410595
+895,M,Management,92375,Bachelor,26,3.986259758
+896,M,Executive,699950,Graduate,45,13.33164666
+897,F,Production,60000,Bachelor,31,4.542181838
+898,M,Production,52650,High School,27,2.644208982
+899,M,Production,59425,Some College,29,6.606629046
+900,F,Management,95225,Bachelor,28,5.137371296
+901,M,Executive,675000,Graduate,50,12.5000065
+902,F,Production,59600,Bachelor,34,4.183530787
+903,M,Production,60625,High School,36,10.63708617
+904,M,Production,61450,High School,37,11.45193728
+905,M,Management,95125,Bachelor,35,5.101633142
+906,F,Production,54525,High School,23,4.533323431
+907,M,Janitorial,37825,High School,46,25.65100229
+908,M,Production,66325,High School,37,16.33117438
+909,M,Production,60200,High School,33,10.21204443
+910,M,Management,110175,Bachelor,37,11.18105982
+911,M,Production,72600,Some College,39,19.1483875
+912,M,Production,59625,High School,29,9.629146916
+913,M,Janitorial,34950,Some College,40,16.57584169
+914,M,Production,67050,Some College,34,13.84535454
+915,M,Production,69750,Some College,42,16.41694855
+916,M,Production,54050,High School,30,4.061943937
+917,F,Production,53800,High School,28,3.802520625
+918,F,Management,90375,Bachelor,30,3.184736612
+919,M,Management,93525,Bachelor,26,4.454574976
+920,M,Production,65325,Some College,36,12.20528093
+921,M,Production,62575,High School,42,12.56941749
+922,F,Janitorial,30175,Bachelor,33,4.876632251
+923,M,Production,63025,High School,35,13.01309609
+924,F,Production,56400,Bachelor,29,1.282631129
+925,M,Production,70150,High School,42,20.13849218
+926,M,Janitorial,31225,Some College,35,9.475190626
+927,M,Production,64775,Some College,43,11.6810144
+928,F,Janitorial,28400,Bachelor,27,1.638046858
+929,F,Janitorial,32050,Some College,42,11.05621029
+930,M,Management,85000,Bachelor,30,1.007573664
+931,M,Management,112800,Bachelor,41,12.24062424
+932,M,Production,56300,High School,29,6.302453673
+933,M,Management,108050,Bachelor,42,10.32296315
+934,T,Production,59150,High School,35,9.141886966
+935,M,Production,67700,Some College,35,14.48221493
+936,F,Management,98800,Bachelor,36,6.587424096
+937,M,Management,93500,Bachelor,26,4.439990386
+938,M,Production,64900,Some College,44,11.80760731
+939,M,Production,56775,High School,35,6.775060289
+940,T,Production,57025,High School,35,7.034877822
+941,M,Production,64500,Some College,40,11.42536669
+942,M,Production,52900,High School,30,2.907490155
+943,F,Management,100550,Bachelor,31,7.289385069
+944,M,Production,63325,Some College,41,10.3146256
+945,M,Production,62250,Some College,41,9.2905282
+946,M,Production,59300,Some College,26,6.483136867
+947,F,Production,58600,Bachelor,32,3.269987398
+948,M,Production,66125,Some College,45,12.97868277
+949,F,Production,58050,Bachelor,27,2.779814802
+950,M,Production,55300,High School,24,5.307400443
+951,M,Management,133500,Bachelor,46,20.6033715
+952,F,Production,58125,Some College,30,5.347809516
+953,M,Production,68500,Some College,37,15.24880848
+954,F,Production,54900,High School,28,4.894799635
+955,M,Production,64050,High School,44,14.03824702
+956,M,Management,96250,Bachelor,39,5.557559724
+957,F,Janitorial,25100,High School,21,0.1842917826
+958,F,Janitorial,26450,High School,21,2.919970053
+959,M,Production,60600,High School,35,10.60549991
+960,M,Production,59950,High School,28,9.959131797
+961,M,Production,60425,High School,39,10.41680939
+962,F,Production,55550,High School,28,5.550655154
+963,M,Production,57425,High School,36,7.424127897
+964,M,Production,68300,Some College,47,15.05937619
+965,M,Production,60650,Some College,33,7.75080088
+966,F,Management,102625,Bachelor,31,8.133555144
+967,M,Management,113775,Bachelor,39,12.6322587
+968,M,Production,68475,Some College,38,15.2170744
+969,F,Production,66425,Bachelor,43,10.37720717
+970,M,Production,67700,High School,48,17.69506515
+971,M,Production,62925,High School,35,12.92931214
+972,M,Janitorial,33700,High School,37,17.38337954
+973,M,Production,54875,High School,29,4.865377096
+974,F,Production,67400,Some College,45,14.19657792
+975,M,Janitorial,31975,High School,36,13.93249417
+976,M,Management,106050,Bachelor,40,9.520045233
+977,F,Janitorial,26825,High School,23,3.638984602
+978,M,Janitorial,29225,High School,34,8.449626758
+979,M,Janitorial,30000,Some College,32,7.146649154
+980,M,Production,76525,High School,55,26.52031883
+981,M,Management,105325,Bachelor,40,9.220458154
+982,M,Executive,681300,Graduate,53,12.71035829
+983,M,Management,114200,Bachelor,44,12.80888484
+984,F,Janitorial,31100,Bachelor,35,6.533537405
+985,M,Production,61950,Some College,41,9.006449203
+986,M,Janitorial,28200,High School,27,6.385677206
+987,M,Executive,656750,Graduate,40,11.89179329
+988,M,Production,66700,High School,42,16.69326116
+989,M,Production,64900,Some College,38,11.80586582
+990,M,Production,55075,High School,28,5.082190259
+991,M,Production,64000,High School,32,14.00353754
